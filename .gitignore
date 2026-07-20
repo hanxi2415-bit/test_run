@@ -1,0 +1,8 @@
+.env
+.venv/
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+test_run/
+qlib_data/
+*.bin
