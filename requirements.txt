@@ -1,0 +1,8 @@
+jupyter
+lightgbm
+matplotlib
+mysql-connector-python
+numpy
+pandas
+pyqlib
+scikit-learn
